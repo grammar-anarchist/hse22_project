@@ -1,7 +1,8 @@
 Таксон: Betaproteobacteria
 Genus: Herbaspirillum
 
-Ссылка на [коллаб](https://colab.research.google.com/drive/1C7AIrSm8ncnrIzmaxo2I2hH6tmXHZn4a?usp=sharing) 
+Ссылка на [коллаб](https://colab.research.google.com/drive/1h-DOMhd_OlzjDeygIpoYx6Mnrzlr_TG0?usp=sharing) 
+
 
 ### Анализ аннотированных генов
 
@@ -62,7 +63,7 @@ Genus: Herbaspirillum
 
 ### Выравнивание
 
-Проводилось с помощью Muscle
+Проводилось с помощью Muscle.
 
 <details>
   <summary>Кластер 1</summary>
@@ -214,3 +215,17 @@ VFQDLADKIQTFLREQMPVWKGKYPGVEAMNVAVMGCIVNGPGESKHANIGISLPGTGESPAAPVFIDGEKKMTLRGEHI
 AEEFQKVVLDYVESHYGQGHPA
     ```
 </details> 
+
+### Визуализации
+
+Изображаем ген и Z-ДНК, попавшие ему в промотер.
+
+![image info](./images/Visualization1.png)
+
+![image info](./images/Visualization2.png)
+
+![image info](./images/Visualization3.png)
+
+![image info](./images/Visualization4.png)
+
+![image info](./images/Visualization5.png)
