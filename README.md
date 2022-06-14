@@ -221,11 +221,7 @@ AEEFQKVVLDYVESHYGQGHPA
 Изображаем ген и Z-ДНК, попавшие ему в промотер.
 
 ![image info](./images/Visualization1.png)
-
 ![image info](./images/Visualization2.png)
-
 ![image info](./images/Visualization3.png)
-
 ![image info](./images/Visualization4.png)
-
 ![image info](./images/Visualization5.png)
