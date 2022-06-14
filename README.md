@@ -61,6 +61,20 @@ Genus: Herbaspirillum
 
 Все рассматриваемые участки Z-ДНК находятся в промотере. ZH-score – это все значения ZH-score для этих участков. В каждом кластере 5 генов. Функции записаны по файлу proteins.faa. Они совпадают везде, кроме 3го кластера, где большинство hypothetical protein, и один chemotaxis protein. Можно предположить, что на самом деле они все chemotaxis protein, просто это установлено лишь для одного вида.
 
+### Визуализации
+
+Изображаем ген и Z-ДНК, попавшие ему в промотер.
+
+![image info](./images/Visualization1.png)
+
+![image info](./images/Visualization2.png)
+
+![image info](./images/Visualization3.png)
+
+![image info](./images/Visualization4.png)
+
+![image info](./images/Visualization5.png)
+
 ### Выравнивание
 
 Проводилось с помощью Muscle.
@@ -215,13 +229,3 @@ VFQDLADKIQTFLREQMPVWKGKYPGVEAMNVAVMGCIVNGPGESKHANIGISLPGTGESPAAPVFIDGEKKMTLRGEHI
 AEEFQKVVLDYVESHYGQGHPA
     ```
 </details> 
-
-### Визуализации
-
-Изображаем ген и Z-ДНК, попавшие ему в промотер.
-
-![image info](./images/Visualization1.png)
-![image info](./images/Visualization2.png)
-![image info](./images/Visualization3.png)
-![image info](./images/Visualization4.png)
-![image info](./images/Visualization5.png)
