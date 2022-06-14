@@ -66,7 +66,6 @@ Genus: Herbaspirillum
 
 <details>
   <summary>Кластер 1</summary>
-    
   ```
 >WP_079214389.1 DUF2891 domain-containing protein [Herbaspirillum robiniae]
 MQLSIQQAEAFARMPLTYLRQEYPNHIMHVLHGDQDALSPRALHPVFYGCYDWHSAVHGFWLLLRCVHLYPELPAKADIN
@@ -103,7 +102,6 @@ GHWLASFAMLALED
 
 <details>
   <summary>Кластер 2</summary>
-    
   ```
 >WP_058894979.1 RNA methyltransferase [Herbaspirillum rubrisubalbicans]
 MNKQVSGQSLFSRLRFVLVNTSSPGNIGSAARAIKTMGFSELVLVNPRFPDAVKEDEAIAFASGAIDVLENARIVGSVEE
@@ -135,7 +133,6 @@ LETEEVNILRGIARQILEPKQAKAGRREQNEQGEG
 
 <details>
   <summary>Кластер 3</summary>
-    
   ```
 >WP_058896057.1 hypothetical protein [Herbaspirillum rubrisubalbicans]
 MPTKTMLQELKRLLLDTASGGSRQLTEVESDLVQTNILLGEAIGKLGTSFMELHRSVQLQQSILEGLMNGNSQFDGESIE
@@ -162,7 +159,6 @@ TVLDSGLWKAVRQTRMESGDIELF
 
 <details>
   <summary>Кластер 4</summary>
-    
   ```
 >WP_005663428.1 MULTISPECIES: translation initiation factor IF-1 [Oxalobacteraceae] dupelabel2
 MAKDDVIQMQGEILENLPNATFRVKLENGHVVLGHISGKMRMNYIRILPGDKVTVELTPYDLSRARIVFRTK
